@@ -1,0 +1,55 @@
+
+var myString = "Hello, World!"
+print(myString)
+
+int fruit = apples +oranges    //is a wrong statement
+int fruit = apples + oranges   //is a Correct statement
+
+var varA = 42.   (declaration)
+print(varA)
+
+var varB:Float.       (type annotation)
+varB = 3.14159
+print(varB)
+
+print("Value of \(varA) is more than \(varB) millions")     (printing variables)
+
+var myString:String?
+myString = "Hello, Swift 4!"      (if we use a optional variable then we should unwrap)
+if (myString != nil)
+
+var myString:String!  (automatic unwrapping)
+
+var TupleName = (Value1, value2,… any number of values)
+
+let constA = 42
+print(constA)
+
+let constB:Float = 3.14159
+print(constB)
+
+var someInts:[Int] = [10, 20, 30].     (for loop)
+for index in someInts {
+   print( "Value of index is \(index)")
+}
+
+// String creation using String instance
+var stringB = String("Hello, Swift 4!")
+
+// Empty string creation using String literal
+var stringA = " "
+
+var stringA = "\(varA) times \(constA) is equal to \(varC * 100)".     
+for chars in "ThisString"
+
+if stringB.isEmpty 
+
+
+
+
+
+
+
+
+
+
